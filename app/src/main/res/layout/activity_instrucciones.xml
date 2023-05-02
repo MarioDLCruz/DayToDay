@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1A3D47"
+    tools:context=".cuestinario_registro_1" >
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="383dp"
+        android:layout_height="228dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.571"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/mensaje_dayt"
+        tools:layout_editor_absoluteY="267dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Comencemos"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="112dp"
+        tools:layout_editor_absoluteY="328dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="282dp"
+        android:layout_height="63dp"
+        android:text="Resuleve el siguiente cuestionario dibujando un círculo si es si o una tacha si es no"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="368dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="146dp"
+        android:layout_height="140dp"
+        app:srcCompat="@drawable/dayt"
+        tools:layout_editor_absoluteX="132dp"
+        tools:layout_editor_absoluteY="139dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

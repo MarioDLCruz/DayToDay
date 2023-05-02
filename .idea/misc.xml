@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Apps/DayToDay/app/src/main/res/layout/activity_cuenta.xml" value="0.17074275362318841" />
+        <entry key="..\:/Apps/DayToDay/app/src/main/res/layout/activity_cuestinario_registro1.xml" value="0.25" />
+        <entry key="..\:/Apps/DayToDay/app/src/main/res/layout/activity_formulario_1.xml" value="0.25" />
+        <entry key="..\:/Apps/DayToDay/app/src/main/res/layout/activity_instrucciones.xml" value="0.17074275362318841" />
+        <entry key="..\:/Apps/DayToDay/app/src/main/res/layout/activity_instrucciones_is.xml" value="0.17074275362318841" />
+        <entry key="..\:/Apps/DayToDay/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Apps/DayToDay/app/src/main/res/layout/activity_registro_1.xml" value="0.22" />
+        <entry key="..\:/Apps/DayToDay/app/src/main/res/layout/activity_registro_2.xml" value="0.22" />
+        <entry key="..\:/Apps/DayToDay/app/src/main/res/layout/activity_registro_3.xml" value="0.17074275362318841" />
+        <entry key="..\:/Apps/DayToDay/app/src/main/res/layout/activity_sesion_1.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
